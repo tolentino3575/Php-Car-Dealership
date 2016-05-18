@@ -10,18 +10,16 @@ This is a simple practice app. It allows the user to enter a certain price, and 
 
 #Setup
 
-To View:
-* Git clone this repository
-* From terminal, navigate into Php-Car-Dealership folder, and then into its "web" folder
-* While in web folder, initialize localhost by typing "php -S localhost:8000" into terminal
-* In browser, enter localhost:8000 in website bar to view
+## Installation
 
-To Edit:
-* Git clone this repository
-* From terminal, navigate into Repeat-Counter folder
-    * Run composer install in terminal while in home folder (Repeat-Counter)
-        * Installs Silex, Twig, and PHPUnit
-* Open with your favorite text editor
+* git clone this repository
+* Change into the new directory
+
+## Running / Development
+
+* Run `composer install` in the project's home directory
+* Start MAMP
+* In your web browser, go to `localhost:8889` to view the app
 
 #Technologies Used:
 
